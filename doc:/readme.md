@@ -1,5 +1,5 @@
 # Sections
-[1. Available documentation](https://www.haproxy.com/documentation/haproxy-configuration-manual/latest/intro/#1)
+## [1. Available documentation](https://www.haproxy.com/documentation/haproxy-configuration-manual/latest/intro/#1)
 The complete HAProxy documentation is contained in the following documents.
 Please ensure to consult the relevant documentation to save time and to get the
 most accurate response to your needs. Also please refrain from sending questions
