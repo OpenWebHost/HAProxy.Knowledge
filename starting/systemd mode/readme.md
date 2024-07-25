@@ -7,3 +7,6 @@ https://cbonte.github.io/haproxy-dconv/2.0/configuration.html#3.1-master-worker
 
 # example:
 https://gist.github.com/meysam81/5a737801af765986b54d9a1c3c41fff5
+
+# template:
+https://discourse.haproxy.org/t/failing-to-start-with-systemd-and-unexplained-issues/849
