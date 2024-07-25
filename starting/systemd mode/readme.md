@@ -2,6 +2,10 @@
 sch:
 https://www.google.com/search?q=haproxy+systemd+mode
 
+# default config location
+https://futuretechnoindia.medium.com/what-is-haproxy-and-how-to-install-and-configure-in-linux-526621e02aa8
+```/etc/haproxy/haproxy.cfg```
+
 # Doc:
 https://cbonte.github.io/haproxy-dconv/2.0/configuration.html#3.1-master-worker
 
